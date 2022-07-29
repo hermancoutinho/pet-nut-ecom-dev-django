@@ -1,0 +1,30 @@
+Pet Nutrition Ecommerce Website Documentation
+
+Intro:
+Pet Nutrition ecommerce website is create using Django framework. The website will serve the following purpose.
+    1. Landing Page
+    2. Shop Page showcasing all the products
+    3. Cart to checkout out the items.
+    4. Login and maintaining user related profile.
+
+
+System Information:
+    Python Ver 3.10
+    Django Ver 4.0
+    Template: Not decided yet (using template that was provided)
+
+
+Template Arrangement:
+    base.html
+    home.html
+
+
+Apps Information
+    Category
+        category_name
+        slug
+        description
+        cat_image
+    Accounts
+        To manage custom user class and many more things.
+
